@@ -10,6 +10,7 @@ void main() async  {
     const MaterialApp(
       home: ProductsPage(),
       debugShowCheckedModeBanner: false,
+      title: 'Firebase App',
     ),
   );
 }
